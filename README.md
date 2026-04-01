@@ -1,6 +1,7 @@
 # BMW Global Sales Performance Dashboard (2010–2024)
 
 ** Dashboard Preview
+https://github.com/deephaldankar1135/BMW-Global-Sales-Performance-Dashboard-2010-2024-/blob/main/BMW%20Global%20Sales%20Performance%20Dashboard.twbx
 
 An interactive **Tableau dashboard** that analyzes BMW's global sales performance over 15 years. This project uncovers key insights on fuel-type balance, regional growth (especially Asia), model performance, and long-term sales trends.
 
