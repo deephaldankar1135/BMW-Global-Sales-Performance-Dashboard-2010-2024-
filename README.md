@@ -5,7 +5,7 @@ https://github.com/deephaldankar1135/BMW-Global-Sales-Performance-Dashboard-2010
 
 An interactive **Tableau dashboard** that analyzes BMW's global sales performance over 15 years. This project uncovers key insights on fuel-type balance, regional growth (especially Asia), model performance, and long-term sales trends.
 
-**Live Demo / Screenshots**: 
+**Live Demo / Screenshots**: https://github.com/deephaldankar1135/BMW-Global-Sales-Performance-Dashboard-2010-2024-/blob/main/Screenshot%202025-11-30%20200947.png
 
 ## 🎯 Business Problem & Objective
 BMW is transitioning toward electrification while maintaining strong performance in traditional powertrains. This dashboard helps stakeholders answer:
